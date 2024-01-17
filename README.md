@@ -10,4 +10,10 @@ Este diseño de BDD Maestro-Detalle trabaja en conjunto, eso quiere decir que no
 Realizar dos escenarios, (puede ser una inserción de factura) que sea registrado con éxito y otro con error en detalle para verificar el reverso de todos los datos.
 Adicional, realizar dos escenarios de propagación de transacción. 
 
+>Comando para clonar el repositorio
+```
+git clone https://github.com/wilmerxx/Trabajo-Aut-nomo.-Transaccciones-JPA.git
+```
+
+
 ![image](https://github.com/wilmerxx/Trabajo-Aut-nomo.-Transaccciones-JPA/assets/66105231/d894a2ee-3cdd-4b91-a9e7-f45a240206ed)
